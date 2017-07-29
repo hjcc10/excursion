@@ -25,3 +25,7 @@ p {
   font-size: 21px;
   color: Gray;
 }
+
+#bottom p {
+  text-align: Right;
+}
